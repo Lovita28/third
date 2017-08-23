@@ -1,0 +1,6 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Third\Third\bin\Debug\Third.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Third\Third\bin\Debug\Third.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Third\Third\bin\Debug\Third.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Third\Third\obj\Debug\Third.csprojResolveAssemblyReference.cache
+c:\users\lovita\documents\visual studio 2015\Projects\Third\Third\obj\Debug\Third.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Third\Third\obj\Debug\Third.pdb
